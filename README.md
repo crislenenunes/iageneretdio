@@ -1,3 +1,4 @@
+```markdown
 # Explorando as Funcionalidades do Copilot e da OpenAI
 
 A inteligência artificial (IA) vem revolucionando diversas áreas, e a combinação do Copilot da GitHub com a tecnologia da OpenAI é um exemplo impressionante de como a IA pode impulsionar a criatividade e a eficiência em diferentes domínios, desde a geração de conteúdo criativo até a assistência na escrita de código. Neste artigo, vamos explorar as funcionalidades dessas poderosas ferramentas e como elas podem ser utilizadas de forma prática e inovadora.
@@ -10,14 +11,14 @@ Os modelos de IA generativa têm sido cada vez mais utilizados para criar conte�
 - **Poesia**: A partir de simples prompts, o sistema pode criar versos e estrofes com ritmo e rima.
 - **Música**: Melodias e harmonias podem ser compostas automaticamente, oferecendo inspiração para músicos e compositores.
 - **Arte Visual**: Imagens e ilustrações únicas podem ser geradas, estimulando a criatividade visual.
-Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas também servem como fonte de inspiração para artistas de todas as áreas.
-
-
-Exemplo de utilização da ferramenta:
-Exemplo [Script](input/imagem1.png)
-Exemplo [Resultado](ounput/imagem2.jpg)
 
 Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas também servem como fonte de inspiração para artistas de todas as áreas.
+
+### Exemplo de Utilização da Ferramenta
+
+![Script](input/imagem1.png)
+
+![Resultado](output/imagem2.jpg)
 
 ## Assistência na Escrita de Código
 
@@ -63,5 +64,4 @@ Para obter o máximo proveito do Copilot e da OpenAI, recomendamos:
 
 Além da integração com os editores de código, é possível acessar o Copilot diretamente via navegador, através do site oficial. Basta fazer login com sua conta e começar a explorar as funcionalidades online.
 
-Em resumo, a exploração dos recursos de IA generativa com o Copilot e a OpenAI oferece uma jornada empolgante para desenvolvedores, escritores e entusiastas da tecnologia. Desde a criação de conteúdo criativo até a resolução de desafios complexos, essa combinação proporciona um mundo de possibilidades criativas e práticas. 
-
+Em resumo, a exploração dos recursos de IA generativa com o Copilot e a OpenAI oferece uma jornada empolgante para desenvolvedores, escritores e entusiastas da tecnologia. Desde a criação de conteúdo criativo até a resolução de desafios complexos, essa combinação proporciona um mundo de possibilidades criativas e práticas.
