@@ -17,7 +17,7 @@ Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas també
 
 ![Script](input/imagem1.png)
 
-![Resultado](output/imagem2.jpg)
+![Resultado](ounput/imagem2.jpg)
 
 ## Assistência na Escrita de Código
 
