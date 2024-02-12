@@ -10,10 +10,12 @@ Os modelos de IA generativa têm sido cada vez mais utilizados para criar conte�
 - **Poesia**: A partir de simples prompts, o sistema pode criar versos e estrofes com ritmo e rima.
 - **Música**: Melodias e harmonias podem ser compostas automaticamente, oferecendo inspiração para músicos e compositores.
 - **Arte Visual**: Imagens e ilustrações únicas podem ser geradas, estimulando a criatividade visual.
+Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas também servem como fonte de inspiração para artistas de todas as áreas.
 
-### Exemplo de utilização da ferramenta:
-[Script](input/imagem1.png)
-[Resultado](ounput/imagem2.jpg)
+
+Exemplo de utilização da ferramenta:
+Exemplo [Script](input/imagem1.png)
+Exemplo [Resultado](ounput/imagem2.jpg)
 
 Essas funcionalidades não apenas auxiliam na criação de conteúdo, mas também servem como fonte de inspiração para artistas de todas as áreas.
 
